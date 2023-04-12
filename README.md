@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/EnidaShehu/Product-preview-card-componen-main))
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/EnidaShehu/Product-preview-card-component-main)
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://enidashehu.github.io/Product-preview-card-component-main/)
 
 ### Built with
